@@ -7,4 +7,5 @@ Tested with Unity 2017.3.1f1
 
 ### More Detail and License Note
 Vertex Painter for Unity ©2015 Jason Booth
+
 Github repository: [https://github.com/slipster216/VertexPaint](https://github.com/slipster216/VertexPaint)
