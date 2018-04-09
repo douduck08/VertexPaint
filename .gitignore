@@ -1,8 +1,28 @@
+# Unity
+/[Bb]in/
+/[Bb]uild/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+*.meta
 
-Examples/.DS_Store
+# VS Code / Visual Studio / MonoDevelop
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
 
-Examples/FlowMapping/.DS_Store
+# Others
+.DS_Store*
+._*
+.Trashes
+*.[Tt][Mm][Pp]
 
-Examples/SplatMapping/.DS_Store
+# Need include
+!*.*.meta
 
-Examples/SplatMapping/Shaders/.DS_Store
+# Custom
+/Assets/Test/
